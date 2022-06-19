@@ -1,6 +1,6 @@
 # Welcome to my github!! 💁‍♂️
 
-Hi I’m **Frontend Developer** and I like to create things, bring what is in the imagination to the real world, move things forward; repair and upgrade what already exists.
+Hi I like to create things, bring what is in the imagination to the real world, move things forward; repair and upgrade what already exists.
 
 - 🔭 I’m currently study on: Platzi
 - 🌱 I’m currently learning: Web Development
