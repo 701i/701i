@@ -39,4 +39,4 @@ Hi I like to create things, bring what is in the imagination to the real world, 
    <a href="mailto:anxelilk@gmail.com?Subject=Portafolio "><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="30" width="40"></a>
 </p>
 <br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=701i&show_icons=true&locale=en" alt="lilianarestrepotorres" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=701i&show_icons=true&locale=en" alt="angel" /></p>
