@@ -1,6 +1,6 @@
 # Welcome to my github!! 💁‍♂️
 
-Hi I like to create things, bring what is in the imagination to the real world, move things forward; repair and upgrade what already exists.
+I am a self-taught programmer in constant development, focused on the Frontend; proactive and curious, looking for ways to improve things.
 
 - 🔭 I’m currently study on: Platzi
 - 🌱 I’m currently learning: Web Development
